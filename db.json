@@ -1,0 +1,67 @@
+{
+    "books":[
+        {
+            "id": "1",
+            "title": "The Great Gatsby",
+            "price": 10.99,
+            "subject": "Fiction",
+            "imgUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg"
+          },
+          {
+            "id": "2",
+            "title": "Harry Potter",
+            "price": 8.99,
+            "subject": "Action",
+            "imgUrl":"https://whitmorerarebooks.cdn.bibliopolis.com/pictures/6162.jpg?auto=webp&v=1713807429"
+
+          },
+          {
+            "id": "3",
+            "title": "Dahi",
+            "price": 12.99,
+            "subject": "Classic",
+            "imgUrl":"https://static.insales-cdn.com/r/fV8ag0kLyxI/rs:fit:570:570:1/q:80/plain/images/products/1/4105/171069449/10d17496a1789a36247ba04311ad442b.jpg@jpg"
+
+          },
+          {
+            "id": "4",
+            "title": "Ali and Nino",
+            "price": 9.99,
+            "subject": "Romance",
+            "imgUrl":"https://bakubookcenter.az/en/get-product-image?fileId=14084"
+
+          },
+          {
+            "id": "5",
+            "title": "Think and Grow Rich",
+            "price": 18.99,
+            "subject": "Fiction",
+            "imgUrl":"https://leadingbyreading.org/wp-content/uploads/2018/11/img_9769.jpg?w=1024"
+
+          },
+          {
+            "id": "6",
+            "title": "The Hobbit",
+            "price": 14.99,
+            "subject": "Fantasy",
+            "imgUrl":"https://schoolbooks.ie/cdn/shop/files/9780007458424-front.jpg?v=1700287689&width=121"
+
+          },
+          {
+            "id": "7",
+            "title": "The Hobbit",
+            "price": 14.99,
+            "subject": "Fantasy",
+            "imgUrl":"https://embed.cdn.pais.scholastic.com/v1/channels/tso/products/identifiers/isbn/9780345534835/primary/renditions/700"
+
+          },
+          {
+            "id": "8",
+            "title": "The Hobbit",
+            "price": 14.99,
+            "subject": "Fantasy",
+            "imgUrl":"https://embed.cdn.pais.scholastic.com/v1/channels/tso/products/identifiers/isbn/9780345534835/primary/renditions/700"
+
+          }
+    ]
+}
